@@ -75,7 +75,7 @@ kill=1;
 }
 }
 
-if(kill==1){printf("deadlock occured");}
+if(kill==1){printf("Deadlock Occured");}
 
 else
 {

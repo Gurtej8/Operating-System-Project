@@ -46,7 +46,7 @@ for(i=0;i<n;i++)
 {
    printf(" %s\t %d\t %d\t %d\n" ,p[i],pt[i],pr[i],wt[i]);
    }
-  printf("Total waiting time=%d\n avg waiting time=%f",totwt,avgwt);
+  printf("Total waiting time=%d\n Avg waiting time=%f",totwt,avgwt);
   getch();
    }
 
